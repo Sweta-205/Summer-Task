@@ -6,11 +6,9 @@ Learn the fundamentals of Git and GitHub — the version control tools you will 
 
 ## Resources
 
-Go through the following interactive tutorial to understand how Git works:
-
-🔗 [Learn Git Branching](https://learngitbranching.js.org/)
-
-A Git cheat sheet has also been provided in this folder (`git-cheat-sheet-education.pdf`) for quick reference.
+- 🔗 [Learn Git Branching](https://learngitbranching.js.org/) — interactive tutorial to understand how Git works
+- 🔗 [First Contributions](https://github.com/firstcontributions/first-contributions) — step-by-step guide to making your first fork, commit, and pull request
+- 📄 `git-cheat-sheet-education.pdf` — quick reference, available in this folder
 
 ## What You Need to Do
 
